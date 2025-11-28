@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Banners/DevOps-dark.gif" width="900"/>
+</p>
+
+
+
 👋 Hi, I'm Shubham Singh
 🚀 Senior DevOps & Azure Cloud Engineer (5+ Years Experience — Telecom Domain)
 
