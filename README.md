@@ -1,132 +1,161 @@
 👋 Hi, I'm Shubham Singh
-🚀 Azure Cloud & DevOps Engineer | CI/CD | Terraform | Automation | Kubernetes
+🚀 Senior DevOps & Azure Cloud Engineer (5+ Years Experience — Telecom Domain)
 
-Cloud-native DevOps engineer with hands-on experience on Microsoft Azure, CI/CD pipelines, containerization, and Infrastructure as Code. Passionate about automation, scalability, and secure cloud deployments.
+CI/CD | Azure | Kubernetes | Terraform | Automation | DevSecOps | IMS | 5G
 
-🧩 About Me
+💼 Professional Summary
 
-☁️ Working as an Azure Cloud + DevOps Engineer
+Highly skilled Azure & DevOps Engineer with 5+ years of experience delivering cloud-native, automated and scalable solutions for Telecom & IMS/5G networks.
+Hands-on expertise in CI/CD pipelines, Infrastructure as Code, Kubernetes, Azure security, and telecom-grade high-availability deployments.
 
-🔧 Builds secure, scalable & automated infrastructure
+Strong experience in supporting cloud transformation for large-scale Telecom Core Network products including IMS, SBC, HSS, PCRF, 5G Core components & VNF-to-CNF migration.
 
-📦 Expert in CI/CD pipelines, Docker, Kubernetes, Terraform
-
-🔍 Strong understanding of Azure Production workloads
-
-📘 Continuously learning cloud-native & DevSecOps practices
-
-🛠️ Tech Stack & DevOps Tools
+🛠️ Core Skills & Tech Stack
 ☁️ Cloud Platforms
 
-Azure: VNet, Subnets, NSG, VM, Storage, Key Vault, Load Balancer, App Service, AKS, ACR, Application Gateway, Log Analytics
+Microsoft Azure (Expert): VM, VNet, NSG, Key Vault, Load Balancer, App Gateway, Storage, ACR, AKS
 
-AWS (Basics): EC2, S3, IAM
+Azure Identity, RBAC, Sentinel, Defender, Policies
 
-🔧 CI/CD & Version Control
+AWS (Basic Understanding)
 
-🧬 Git, GitHub, GitLab
+⚙️ CI/CD & DevOps
 
-🤖 GitHub Actions
+Git | GitHub | GitHub Actions
 
-⚙️ Jenkins
+Azure DevOps Pipelines (YAML + Classic)
 
-🏗️ Azure DevOps Pipelines (YAML & Classic)
+Jenkins
 
-📦 Containerization
+Artifact/Release Management
 
-🐳 Docker
+Automated Rollouts & Canary Deployments
 
-☸️ Kubernetes (K8s)
+📦 Containers & Kubernetes
 
-🎛️ Helm Charts
+Docker
 
-🔹 Azure Kubernetes Service (AKS)
+Kubernetes (K8s)
 
-🧰 Infrastructure as Code
+Azure Kubernetes Service (AKS)
 
-🌎 Terraform
+Helm Charts • Ingress • HPA • Cluster Autoscaling
 
-📐 ARM Templates
+CNF deployments for telecom workloads
 
-🔧 Ansible (Basics)
+🏗️ Infrastructure as Code
 
-🔐 Security
+Terraform (Production Grade IaC)
 
-🔒 Azure Key Vault
+ARM Templates
 
-🧱 Azure Firewall / NSG
+Ansible (Basics)
 
-🛡️ Azure Defender
+🔐 Security & DevSecOps
 
-🌐 WAF (Web Application Firewall)
+Key Vault • Azure Firewall • Defender
 
-📊 Monitoring & Logging
+NSG • WAF • Zero Trust
 
-📈 Grafana
+SAST/DAST Integration
 
-🔍 Prometheus
+Secrets Management Automation
 
-📡 Azure Monitor
+📊 Monitoring & Observability
 
-📝 Log Analytics Workspace
+Azure Monitor • Log Analytics Workspace
 
-🛠️ Application Insights
+Application Insights
 
-🧪 Testing & Automation
+Prometheus • Grafana
 
-🐍 Python (Automation scripts)
+Alerts, Dashboards, Health Probes
 
-📜 Bash & PowerShell
+🧪 Automation & Scripting
 
-🧪 Postman for API Testing
+Python
 
-🚀 What I Do
+Bash
 
-Automate deployments using CI/CD Pipelines
+PowerShell
 
-Provision entire infra using Terraform
+API Testing (Postman)
 
-Deploy microservices on AKS
+📡 TELECOM PROJECTS (DOMAIN-RELEVANT EXPERIENCE)
+📌 1. 5G / IMS DevOps Automation Platform
 
-Implement DevSecOps controls
+Role: Senior DevOps Engineer
+Tech: Azure, Terraform, AKS, GitHub Actions, Helm, Grafana
+Highlights:
 
-Cloud infra hardening & cost optimization
+Automated deployment of IMS Core (CSCF, BGCF) + SBC workloads on Azure
 
-Monitoring & alerting setup
+Containerized multiple telecom VNFs into CNFs for Kubernetes
 
-📂 Highlighted Projects
-🔹 Azure Terraform Infra Deployment
+Implemented Full CI/CD pipeline with unit test → image build → security scan → AKS deploy
 
-Provisioned complete Azure infra: VNet, Subnets, NSG, AKS, ACR, Load Balancer, Log Analytics.
+Set up centralized telecom-grade monitoring with Prometheus + Grafana
 
-🔹 GitHub Actions CI/CD
+📌 2. IMS Core Node Deployment on Azure (CFX + SBC)
 
-End-to-end CI/CD pipeline for containerized apps on AKS.
+Role: Cloud & DevOps Engineer
+Tech: Azure VMSS, Load Balancer, ACR, Terraform, Jenkins
+Highlights:
 
-🔹 Kubernetes Microservices Deployment
+Provisioned scalable infrastructure for SBC, CFX, HSS components
 
-Deployed microservices with Ingress, Autoscaling (HPA), and Observability stack.
+Automated VM creation, networking, NSG rules & load balancer setup using Terraform
 
-🧑‍💼 Professional Interests
+Integrated log collection for SIP/VoIP traces via Log Analytics
 
-Cloud-Native Architecture
+Enabled rolling upgrades for SBC & CFX network elements
 
-Infra Security & Zero Trust
+📌 3. Telecom Cloud Migration (On-Prem → Azure)
 
-Automation-first DevOps
+Role: DevOps + Cloud Engineer
+Tech: Azure DevOps, GitHub, Terraform, Azure Gateway, AKS
+Highlights:
 
-Containers & Service Mesh
+Migrated complete telecom infra (IMS + Charging + OCC) from on-prem to Azure
+
+Converted VM workloads to AKS-based CNFs
+
+Implemented secure ingress, internal load balancing, and SIP traffic routing
+
+Reduced deployment time from 6 hours → 15 minutes using automation
+
+📌 4. Call Flow Validation Automation (E2E)
+
+Role: Automation Engineer
+Tech: Python, Postman, Jenkins
+Highlights:
+
+Automated 4G/5G Registration + Call Setup + Handover test validation
+
+Implemented API automation for P-CSCF, I-CSCF, S-CSCF flows
+
+Integrated automated logs → Slack/Teams notification
+
+🚀 What I Bring
+
+Strong knowledge of Telecom Core Architecture (IMS/5G)
+
+Solid experience with cloud-native telecom CNF deployments
+
+End-to-end ownership of pipelines, automation & release engineering
+
+Deep Azure knowledge for production workloads
+
+Ability to design scalable, secure & fully automated infra
+
+📊 GitHub Stats (Dark Theme)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shubhgit123&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhgit123&layout=compact&theme=tokyonight)
 
 📫 Connect with Me
 
-📧 Email: your email
+📧 Email — your email
 
-🔗 LinkedIn: your LinkedIn profile link
+🔗 LinkedIn — your link
 
-📊 GitHub Stats
-![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shubhgit123&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhgit123&layout=compact&theme=radical)
-
-⚡ Fun Fact
-
-Automation saves hours — DevOps makes it repeatable ⚙️🚀
+🐙 GitHub — Shubhgit123
